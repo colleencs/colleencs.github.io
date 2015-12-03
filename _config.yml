@@ -77,8 +77,8 @@ exclude:
     - CNAME
 prose:
   rooturl: '_posts'
-  siteurl: 'http://prose.github.io/starter/'
-  relativeLinks: 'http://prose.github.io/starter/links.jsonp'
+  siteurl: 
+  relativeLinks: 
   media: 'media'
   ignore:
     - index.md
